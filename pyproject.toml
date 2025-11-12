@@ -1,0 +1,12 @@
+[project]
+name = "suntime"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "astral>=3.2",
+    "bokeh>=3.7.3",
+    "pandas>=2.3.2",
+    "pendulum>=3.1.0",
+]
