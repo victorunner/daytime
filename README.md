@@ -2,4 +2,5 @@
 
 ## Запуск
 
-Запуск: uv run main.py
+Запуск:
+uv run main.py
